@@ -9,12 +9,16 @@ The purpose of this analysis is to determine if there is any bias toward favorab
 
 ## Results: Using bulleted lists and images of DataFrames as support, address the following questions:
 
-![summary table2](https://github.com/cortesh/Amazon_Vine_Analysis/blob/main/final_tbl2.jpg)
+
 
 * How many Vine reviews and non-Vine reviews were there?
+* 
+![total count](https://github.com/cortesh/Amazon_Vine_Analysis/blob/main/total_count.jpg)
+
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 * What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
 
+![summary table2](https://github.com/cortesh/Amazon_Vine_Analysis/blob/main/final_tbl2.jpg)
 
 ## Summary: 
 
